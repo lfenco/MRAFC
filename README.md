@@ -11,7 +11,7 @@ Main code and functions required for the article "Nonlinear trajectory tracking 
 8) update_data.m
 9) lmiModel09102023
 ------------------------------------------------
-# Description
+## Description
 1) (main code)
 2) (definition of variables and parameters for the AUV model and reference model)
 3) (function that allows to make a spiral trajectory based on 8 reference points)
