@@ -30,10 +30,10 @@ conditions. In addition, there are some additional intuitive parameters such as 
 thrusters. Or even if what is desired is a simulation for regulation or trajectory tracking. So, below is a 
 configuration for an ideal environment in trajectory tracking:
 
-*input enable noise [Not noise = 0 -- noise = 1] : 0
-*input disturbance amplitude [0.8] : 0
-*input enable break [Not Break = 0 -- Break = 1]: 0
-*input Cnt Points: [8Points = 0 -- 16Points = 1] : 0
-*not saturation=0 -- saturation=1: 1
-*model reference: new calculation = 0 -- load data = 1: 1
-*input [regulation  = 0 -- tracking = 1] : 1
+*input enable noise [Not noise = 0 -- noise = 1] : 0;
+*input disturbance amplitude [0.8] : 0;
+*input enable break [Not Break = 0 -- Break = 1]: 0;
+*input Cnt Points: [8Points = 0 -- 16Points = 1] : 0;
+*not saturation=0 -- saturation=1: 1;
+*model reference: new calculation = 0 -- load data = 1: 1;
+*input [regulation  = 0 -- tracking = 1] : 1;
