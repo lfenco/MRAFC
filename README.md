@@ -10,7 +10,7 @@ Main code and functions required for the article "Nonlinear trajectory tracking 
 7) membership_function.m
 8) update_data.m
 9) lmiModel09102023
-
+------------------------------------------------
 # Description
 1) (main code)
 2) (definition of variables and parameters for the AUV model and reference model)
@@ -21,3 +21,5 @@ Main code and functions required for the article "Nonlinear trajectory tracking 
 7) (definition of the membership functions and the working ranges)
 8) (function for updating the parameters for the control law)
 9) (database that saves the results obtained in the lmi_calculation.m function)
+
+## Running the code
